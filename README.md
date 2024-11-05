@@ -13,7 +13,7 @@ Welcome to my repository👌. I am a Data Science Professional with a background
 
 ## Projects
 
-📂 *Comparative Analysis of Cardiovascular Disease Prediction*<be>
+📂 *Comparative Analysis of Cardiovascular Disease Prediction*<br>
 Tools: `sckit-learn`, `TensorFlow`, `XGBoost`, `imblearn`
 Prediction of the likelihood of heart disease using various machine Learning models using Synthetic Minority Oversampling Technique (SMOTE) to handle the imbalance form of the datasets.
 
