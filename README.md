@@ -1,4 +1,4 @@
-# Hi👋 am `Ridwan` `Amokun`
+# Hi👋 am `MITXy`
 ## Data Scientist | Machine Learning Engineer 
 
 Welcome to my repository👌. I am a Data Science Professional with a background in `Mechanical Engineering`, dedicated to driving Data-centric solutions through advanced Machine Learning, Natural Language Processing, and Statistical Analysis. My work spans predictive modelling, deep learning, and data analytics, consistently aiming to bridge the gap between data insights and actionable strategies.
