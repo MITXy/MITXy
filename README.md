@@ -53,13 +53,10 @@ I am a **Data Science Professional** with a background in `Mechanical Engineerin
 - **Comparative Analysis of Machine Learning Algorithms for Heart Disease Prediction Using CDC and BRFSS Data**  
   Conference Paper (November 2024): A focus on oversampling and ensemble techniques for heart disease prediction.  
   *Authors: Ridwan Amokun, O. T. Arowolo, John Eke*  
-
-- **AI for Future Industrialisation of Medicine in Sub-Saharan Africa**  
-  Publication Preview (November 2024): Exploring AI-driven healthcare advancements for sustainable industrialization.  
-
+ 
 - **Mechanics of Nanofluidic Flow Induced Nonlinear Vibrations of Single and Multi-Walled Branched Nanotubes**  
   Article (July 2024): Investigation into thermal-magnetic environments affecting nanotube behavior.  
-  *Authors: Ahmed Yinusa, Gbeminiyi Sobamowo, Adekunle Omolade*
+  *Authors: Ahmed Yinusa, Gbeminiyi Sobamowo, Adekunle Omolade, Ridwan Amokun*
 
 ---
 
